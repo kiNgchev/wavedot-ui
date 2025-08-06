@@ -1,9 +1,9 @@
-package net.kingchev.avrora
+package net.kingchev.deka
 
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class ComposeAppCommonTest {
+class SharedCommonTest {
 
     @Test
     fun example() {

@@ -1,4 +1,4 @@
-package net.kingchev.avrora
+package net.kingchev.deka
 
 class JVMPlatform: Platform {
     override val name: String = "Java ${System.getProperty("java.version")}"

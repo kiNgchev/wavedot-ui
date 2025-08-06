@@ -58,11 +58,11 @@ kotlin {
 }
 
 android {
-    namespace = "net.kingchev.avrora"
+    namespace = "net.kingchev.deka"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "net.kingchev.avrora"
+        applicationId = "net.kingchev.deka"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
@@ -90,11 +90,11 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "net.kingchev.avrora.MainKt"
+        mainClass = "net.kingchev.deka.MainKt"
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "net.kingchev.avrora"
+            packageName = "net.kingchev.deka"
             packageVersion = "1.0.0"
         }
     }

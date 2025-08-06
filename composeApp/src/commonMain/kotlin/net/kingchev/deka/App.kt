@@ -1,4 +1,4 @@
-package net.kingchev.avrora
+package net.kingchev.deka
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
@@ -16,8 +16,8 @@ import androidx.compose.ui.Modifier
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
-import avrora_ui.composeapp.generated.resources.Res
-import avrora_ui.composeapp.generated.resources.compose_multiplatform
+import deka_ui.composeapp.generated.resources.Res
+import deka_ui.composeapp.generated.resources.compose_multiplatform
 
 @Composable
 @Preview

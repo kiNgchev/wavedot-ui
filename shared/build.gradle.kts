@@ -41,7 +41,7 @@ kotlin {
 }
 
 android {
-    namespace = "net.kingchev.avrora.shared"
+    namespace = "net.kingchev.deka.shared"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11

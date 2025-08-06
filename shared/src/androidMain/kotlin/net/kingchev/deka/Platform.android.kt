@@ -1,4 +1,4 @@
-package net.kingchev.avrora
+package net.kingchev.deka
 
 import android.os.Build
 

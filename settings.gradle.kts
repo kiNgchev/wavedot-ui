@@ -1,4 +1,4 @@
-rootProject.name = "avrora-ui"
+rootProject.name = "deka-ui"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {

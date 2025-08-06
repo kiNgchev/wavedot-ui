@@ -1,7 +1,7 @@
 {
-  "name": "webApp",
+  "name": "deka-music",
   "version": "1.0.0",
-  "description": "Web application that uses Kotlin Multiplatform Library",
+  "description": "Web app for Deka music",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
