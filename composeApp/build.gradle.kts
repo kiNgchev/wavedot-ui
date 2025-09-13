@@ -58,11 +58,11 @@ kotlin {
 }
 
 android {
-    namespace = "net.kingchev.deka"
+    namespace = "net.kingchev.wavedot"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "net.kingchev.deka"
+        applicationId = "net.kingchev.wavedot"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
@@ -90,11 +90,11 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "net.kingchev.deka.MainKt"
+        mainClass = "net.kingchev.wavedot.MainKt"
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "net.kingchev.deka"
+            packageName = "net.kingchev.wavedot"
             packageVersion = "1.0.0"
         }
     }

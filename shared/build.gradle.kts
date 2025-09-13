@@ -41,7 +41,7 @@ kotlin {
 }
 
 android {
-    namespace = "net.kingchev.deka.shared"
+    namespace = "net.kingchev.wavedot.shared"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11

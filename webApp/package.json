@@ -1,7 +1,7 @@
 {
-  "name": "deka-music",
+  "name": "wavedot-music",
   "version": "1.0.0",
-  "description": "Web app for Deka music",
+  "description": "Web app for Wavedot music",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",

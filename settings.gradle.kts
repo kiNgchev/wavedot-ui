@@ -1,4 +1,4 @@
-rootProject.name = "deka-ui"
+rootProject.name = "wavedot-ui"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
