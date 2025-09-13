@@ -1,4 +1,4 @@
-package net.kingchev.deka
+package spave.wavedot
 
 class JVMPlatform: Platform {
     override val name: String = "Java ${System.getProperty("java.version")}"

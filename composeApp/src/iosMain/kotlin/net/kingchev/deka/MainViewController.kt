@@ -1,4 +1,4 @@
-package net.kingchev.deka
+package spave.wavedot
 
 import androidx.compose.ui.window.ComposeUIViewController
 

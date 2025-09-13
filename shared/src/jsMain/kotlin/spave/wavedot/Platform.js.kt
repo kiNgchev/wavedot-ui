@@ -1,4 +1,4 @@
-package net.kingchev.deka
+package spave.wavedot
 
 class JsPlatform: Platform {
     override val name: String = "Web with Kotlin/JS"

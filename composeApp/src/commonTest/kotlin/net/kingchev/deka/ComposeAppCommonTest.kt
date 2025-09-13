@@ -1,4 +1,4 @@
-package net.kingchev.deka
+package spave.wavedot
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

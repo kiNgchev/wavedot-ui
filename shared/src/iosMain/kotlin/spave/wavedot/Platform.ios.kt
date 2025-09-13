@@ -1,4 +1,4 @@
-package net.kingchev.deka
+package spave.wavedot
 
 import platform.UIKit.UIDevice
 
